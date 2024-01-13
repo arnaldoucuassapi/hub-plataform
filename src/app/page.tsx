@@ -22,14 +22,17 @@ export default function Home() {
           Veja as próximas turmas
         </button>
 
-        <div className="w-full h-96 bg-orange-300 rounded-lg"></div>
+        <div className="w-full h-96 bg-orange-100 rounded-lg"></div>
       </section>
 
       <section className="bg-zinc-200 p-16">
         <h2 className="text-4xl text-zinc-800 font-bold mb-6">Sobre o curso</h2>
 
         <div className="grid grid-cols-3">
-          <p>1</p>
+          <div className="">
+            
+          </div>
+
           <p>2</p>
           <p>3</p>
           <p>4</p>
